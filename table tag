@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <style>
+            table, th, td ,text{
+  border: 0.5px solid black;
+  text-align: center;
+ 
+}
+.car{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    
+}
+
+.har{
+    text-align: center;
+    text-decoration:solid;
+}
+        </style>
+    </head>
+
+    <body>
+        <h1 class="car">MGM'S POLYTECHINC</h1>
+        <h2 class="har">MGM'S CAMPUS,N-6,CIDCO AURANGABAD</h2>
+
+      <table class="car" >
+          <tr>
+              <th>DAY</th>
+              <th>10.00-11.00</th>
+              <th>11.00-12.00</th>
+              <th rowspan="7">R <br> E<br>C<br>E<br>S <br>S</th>
+              <th>12.45-1.45</th>
+              <th>1.45-2.45</th>
+              <th rowspan="7">R <br> E<br>C<br>E<br>S <br>S</th>
+              <th>3.00-4.00</th>
+              <th>4.00-5.00</th>
+          </tr>
+          <tr class>
+              <td>MMONDAY</td>
+              <td>PIC</td>
+              <td>WPD</td>
+              
+              <td colspan="2">EEC <br>CPH <br>BEC</td>
+              <td>EEC</td>
+              <td>AMS</td>
+          </tr>
+          <tr>
+            <td>TUESDAY</td>
+            <td>EEC</td>
+            <td>BEC</td>
+            
+            <td colspan="2">AMS TUT</td>
+            <td colspan="2">CPH <br>ECC<br>PIC</td>
+        </tr>   
+        <tr>
+            <td>WEDNESDAY</td>
+            <td>BEC</td>
+            <td>AMS</td>
+            <td>EEC</td>
+            <td>pic</td>
+            <td colspan="2">PIC <br> BEC<br> ECC</td>
+        </tr>  <tr>
+            <td>THURSDAY</td>
+            <td>AMS</td>
+            <td>PIC</td>
+            <td colspan="2">WPD <br>PIC <br>BcC</td>
+            <td> weekly test</td>
+        
+        </tr>  <tr>
+            <td>FRIDAY</td>
+            <td>AMS</td>
+            <td>WPD</td>
+            <td>CPH</td>
+            <td>BEC</td>
+            <td colspan="2">PIC TUT</td>
+            
+        </tr>  <tr>
+            <td>SATURDAY</td>
+            <td colspan="2">BEC <br>BcC<br>WPD</td>
+            <td colspan="2">BcC <br>WPD<br>CPH</td>
+            <td>ECC</td>
+            <td>CPH</td>
+        </tr>
+
+      </table>
+    </body>
+</html>
